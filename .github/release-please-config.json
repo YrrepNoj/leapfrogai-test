@@ -1,8 +1,8 @@
 {
+    "draft-pull-request": true,
     "packages": {
       ".": {
         "release-type": "simple",
-        "draft": true,
         "changelog-path": "CHANGELOG.md",
         "changelog-sections": [
           { "type": "feat", "section": "Features", "hidden": false },
