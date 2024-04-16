@@ -12,8 +12,16 @@
         "versioning": "default",
         "extra-files": [
           "pyproject.toml",
-          "packages/api/chart/Chart.yaml",
-          "packages/api/chart/values.yaml"
+          {
+            "type": "yaml",
+            "path": "**/Chart.yaml",
+            "glob": true
+          },
+          {
+            "type": "yaml",
+            "path": "**/values.yaml",
+            "glob": true   
+          }
         ]
       }
     }
