@@ -2,7 +2,7 @@
     "packages": {
       ".": {
         "release-type": "simple",
-        "draft-pull-request": true,
+        "draft": true,
         "changelog-path": "CHANGELOG.md",
         "changelog-sections": [
           { "type": "feat", "section": "Features", "hidden": false },
