@@ -13,12 +13,12 @@
         "extra-files": [
           "pyproject.toml",
           {
-            "type": "yaml",
+            "type": "generic",
             "path": "**/Chart.yaml",
             "glob": true
           },
           {
-            "type": "yaml",
+            "type": "generic",
             "path": "**/values.yaml",
             "glob": true   
           }
