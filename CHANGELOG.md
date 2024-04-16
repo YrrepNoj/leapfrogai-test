@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.1](https://github.com/YrrepNoj/leapfrogai-test/compare/v0.7.0...v0.7.1) (2024-04-16)
+
+
+### Miscellaneous
+
+* try to return to blob extra-files ([f2f93f9](https://github.com/YrrepNoj/leapfrogai-test/commit/f2f93f9108a60b11a16b5baef3018a4ac4baf7f5))
+* turn yaml extra-files to generic in release-please-config ([34942a1](https://github.com/YrrepNoj/leapfrogai-test/commit/34942a1a36cb9cfc1f7338ce4796907bbca5f6cb))
+
 ## [0.7.0](https://github.com/YrrepNoj/leapfrogai-test/compare/v0.6.1...v0.7.0) (2024-04-16)
 
 
